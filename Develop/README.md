@@ -1,10 +1,10 @@
-# title
+# Readme Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ##Description
+  ## Description
 
-  description
+  This is professional ReadME Generator
 
   ## Table of Contents
 
@@ -22,18 +22,18 @@
 
   [License](#license)
 
-  usage
+  Follow the video below to see how to use the project
 
-  ##Contributing
+  ## Contributing
 
-  contribute
+  You can copy any of the code and change for what you need
 
   ## Test
 
-  test
+  None
 
   ## Questions
 
-  If you have any questions please contact me at: jake.brown.duncan@gmail.com:
+  If you have any questions please contact me at: jake.brown.duncan@gmail.com
 
-  Github: jacobduncan17 (https://github.com/jacobduncan17)
+  Github: JacobDuncan17 (https://github.com/JacobDuncan17)
