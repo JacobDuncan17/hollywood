@@ -29,7 +29,7 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.license)}
 
-  ##Description
+  ## Description
 
   ${data.description}
 
@@ -51,7 +51,7 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
-  ##Contributing
+  ## Contributing
 
   ${data.contributing}
 
@@ -61,7 +61,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  If you have any questions please contact me at: ${data.email}:
+  If you have any questions please contact me at: ${data.email}
 
   Github: ${data.username} (https://github.com/${data.username})
 `;
